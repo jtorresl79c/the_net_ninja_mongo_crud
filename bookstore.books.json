@@ -1,0 +1,87 @@
+[{
+  "_id": {
+    "$oid": "64bf211d0897657c1c5cfcfc"
+  },
+  "title": "The Light Fantastic",
+  "author": "Terry Pratchett",
+  "pages": 250,
+  "rating": 6,
+  "genres": [
+    "fantasy",
+    "magic"
+  ],
+  "reviews": [
+    {
+      "name": "Luigi",
+      "body": "It was pretty good"
+    },
+    {
+      "name": "Bowser",
+      "body": "Loved It!!!"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64bf211d0897657c1c5cfcfd"
+  },
+  "title": "The Name of the Wind",
+  "author": "Patrick Rothfuss",
+  "pages": 500,
+  "rating": 10,
+  "genres": [
+    "fantasy"
+  ],
+  "reviews": [
+    {
+      "name": "Peach",
+      "body": "One of my favs"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64bf211d0897657c1c5cfcfe"
+  },
+  "title": "The Color of Magic",
+  "author": "Terry Pratchett",
+  "pages": 350,
+  "rating": 8,
+  "genres": [
+    "fantasy",
+    "magic"
+  ],
+  "reviews": [
+    {
+      "name": "Luigi",
+      "body": "It was OK"
+    },
+    {
+      "name": "Bowser",
+      "body": "Really good book"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64bf211d0897657c1c5cfcff"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "pages": 300,
+  "rating": 6,
+  "genres": [
+    "sci-fi",
+    "dystopian"
+  ],
+  "reviews": [
+    {
+      "name": "Peach",
+      "body": "Not my cup of tea"
+    },
+    {
+      "name": "Mario",
+      "body": "Meh"
+    }
+  ]
+}]
